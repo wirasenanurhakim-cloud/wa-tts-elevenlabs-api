@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎙️ WA TTS Bot — Kassandra V2
 
 Bot WhatsApp yang mengkonversi teks ke suara menggunakan ElevenLabs (voice Kassandra V2), lalu mengirim hasilnya dalam format ZIP.
