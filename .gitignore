@@ -1,0 +1,21 @@
+.env
+auth_info/
+backup/
+cache/
+tmp/
+node_modules/
+*.zip
+*.mp3
+*.html
+*.exe
+*.log
+
+
+# file sampah kamu
+console.log*
+PATCH_index.js.txt
+index(AMAN).js
+index4.js
+index_24042026.js
+index_24042026_LAST.js
+npm
